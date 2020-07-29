@@ -3,6 +3,7 @@ import os
 import subprocess
 
 
+
 def generate_info_html():
     html_frame = """
 <!DOCTYPE html>
